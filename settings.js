@@ -42,9 +42,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "AzurFlane Bot V2" //namabot kalian
 global.ownername = "GarVinCG" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "http://azurflane-bot.great-site.net/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.myweb2 = "-" //bebas
 global.email = "enternity32@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
@@ -56,8 +56,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/73195ceffb6139d306f8e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© AzurBot ' + botname //sticker wm ubah
-global.author = 'Created By GarVinCG ' + ownername //sticker wm ganti nama kalian
+global.packname = '© AzurBot ' + GarVinCG //sticker wm ubah
+global.author = 'Created By AzurBot ' + GarVinCG //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
